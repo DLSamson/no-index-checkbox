@@ -1,7 +1,10 @@
-# noIndexBox
+# No Index Checkbox
+
+> This package was made for Modx Revolution 2.8
+
 No index checkbox for resources in Modx Revolution. 
 
-This package adds noIndex checkbox, so you can easily put "noindex,nofollow" metatag where ever you need
+This package adds noIndex checkbox, so you can easily put "noindex,nofollow" metatag on every page you need via admin content panel
 
 To build and install this package, just clone it into your clear modx install, and run this:
 
